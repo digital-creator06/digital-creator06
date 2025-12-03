@@ -18,8 +18,6 @@ I love turning simple ideas into real, working solutions — **one commit at a t
 
 ---
 
-# ✨ Animated Text Banner
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Front-end+Learner;Open+Source+Explorer;Tech+Enthusiast;Always+Learning+%F0%9F%8C%B1">
 </p>
@@ -75,30 +73,11 @@ And the belief that **every skill starts with a single line of code.**
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkawale&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=omkawale&theme=tokyonight" height="160" />
-</p>
-
----
-
 # 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkawale&theme=react-dark" />
 </p>
-
----
-
-# 🐍 Contributions Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omkawale/omkawale/output/github-contribution-grid-snake.svg" />
-</p>
-
-*(Note: create a repo named `omkawale` and enable GitHub Actions — I can set it up for you.)*
 
 ---
 
